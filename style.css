@@ -1,0 +1,55 @@
+div{
+	border:4px double;
+	
+	width: 800px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	marign-bottom:20px;
+	background-color: #CCC;
+	
+}
+
+h1{
+	text-align: center;
+}
+
+header{
+	
+	height:150px;
+	background-color: blue;
+	
+}
+nav{
+	height:60px;
+	background-color: red;
+}
+
+aside{
+	
+	width:150px;
+	height: 400px;
+	background-color: green;
+	float:left;
+}
+
+main {
+
+	width:650px;
+	height:400px;
+	background-color: pink;
+	float: right;
+}
+
+
+footer{
+	text-align: center;
+	width:100px;
+	background:#CCC;
+	clear: both;
+}
+p{
+	margin:0;
+	padding:15px;
+}
